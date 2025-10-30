@@ -1,6 +1,6 @@
-# jasi999999
+# jimenezgimenojesus
 
-¡Hola! Soy **jasi999999**, desarrollador/a y entusiasta de la programación.  
+¡Hola! Soy **jimenezgimenojesus**, desarrollador/a y entusiasta de la programación.  
 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y contribuciones.
 
 ---
@@ -17,10 +17,10 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y
 
 ### Proyecto 1
 Este proyecto es un ejemplo de **Machine Learning Supervisado** desarrollado para **Samsung Innovation Campus**.  
-[Enlace al repositorio](https://github.com/jasi999999/SAMSUNG_ML_Project)
+[Enlace al repositorio](https://github.comjimenezgimenojesus/SAMSUNG_ML_Project)
 ### Proyecto 2: Apuntes Curso Introducción a Python
 Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innovation Campus**.  
-[Enlace al repositorio](https://github.com/jasi999999/Samsung_Python_Course)
+[Enlace al repositorio](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
 
 ---
 
@@ -33,6 +33,6 @@ Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innova
 
 ## 🔹 Contacto
 
-- GitHub: [here](https://github.com/jasi999999)  
+- GitHub: [here](https://github.com/jimenezgimenojesus)  
 - LinkedIn: [here](https://www.linkedin.com/in/jesus-jimenez-gimeno/)  
 - Email: jimenezgimenojesus@gmail.com
