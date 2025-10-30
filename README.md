@@ -17,7 +17,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y
 
 ### Proyecto 1
 Este proyecto es un ejemplo de **Machine Learning Supervisado** desarrollado para **Samsung Innovation Campus**.  
-[Enlace al repositorio](https://github.comjimenezgimenojesus/SAMSUNG_ML_Project)
+[Enlace al repositorio](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
 ### Proyecto 2: Apuntes Curso Introducción a Python
 Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innovation Campus**.  
 [Enlace al repositorio](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
